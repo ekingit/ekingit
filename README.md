@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ekingit
-- 👀 I’m interested in a bit of this a bit of that.
-- 🌱 I’m currently learning a bit of everything.
+- 👋 Hi, I’m Ekin.
+- 👀 I’m interested in variatiy of topics like data analysis, software, mathematics and physics.
+- 🌱 I’m currently learning databases.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: ...

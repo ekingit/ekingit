@@ -1,10 +1,8 @@
 - 👋 Hi, I’m Ekin.
-- 👀 I’m interested in variatiy of topics like data analysis, software, mathematics and physics.
-- 🌱 I’m currently learning databases.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👀 I’m interested in variatiy of topics including data, software, mathematics and physics.
+- 🌱 I’m currently learning databases, cloud computing and machine learning.
+
+
 
 <!---
 ekingit/ekingit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
